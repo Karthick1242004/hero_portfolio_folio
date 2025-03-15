@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "projectName": "MacOS Portfolio",
+      "projectType": "Next JS",
+      "projectContent": "This is a portfolio template which is completley developed based on macOS used in macbook, a dynamic website which consist of main macos features like login,shutdown, terminal, browser, VS-Code, Notes App, Safari,Control Center etc, this even has its app listed as projects done. This project challenged the CSS skills of mine and knowledge.",
+      "projectImage": "/mac-os.png",
+      "projectUrl": "https://caliber-macos-portfolio.netlify.app/",
+      "githubUrl": "https://www.linkedin.com/posts/karthickrajan-s_you-might-be-wondering-why-is-this-guy-showing-activity-7266497433839255552-YzRf/?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "projectName": "Netflix Clone",
+      "projectType": "MERN Stack",
+      "projectContent": "This Netflix website clone was developed as a comprehensive project aimed at honing skills in API fetching, posting data, rendering components across various pages, and implementing backend APIs for handling email and password data using MongoDB with Node and Express. It gave valuable insights into managing states and utilizing hooks effectively.",
+      "projectImage": "/netflix.png",
+      "projectUrl": "https://netflix124-clone.vercel.app/",
+      "githubUrl": "https://github.com/Karthick1242004/Netflix-Clone-App"
+    },
+    {
+      "projectName": "Disease Outbreak Prediction",
+      "projectType": "MERN Stack",
+      "projectContent": "We developed a REACT website that utilizes GEMINI AI to provide details about the latest disease outbreaks worldwide. Since GEMINI AI doesn't provide real-time data, we integrated updated news from the W.H.O. website to fetch disease details. It gave valuable insights into using API and utilizing AI in real-world problems effectively.",
+      "projectImage": "/gemini.png",
+      "projectUrl": "https://www.linkedin.com/posts/karthickrajan-s_disease-outbreak-generator-using-gemini-ai-activity-7206879304855486464--29K?utm_source=share&utm_medium=member_desktop",
+      "githubUrl": "https://github.com/Karthick1242004/gemini-disease-outbreak-monitor"
+    }
+  ],
+  "top_project": {
+    "title": "Building Caliber Tech",
+    "description": "Caliber Tech is a dynamic startup specializing in building customized web applications tailored to our clients' needs. We not only develop these applications based on customer inputs but also provide comprehensive technical support and maintenance throughout the entire lifecycle of the application. For more information, please visit our website.",
+    "websiteUrl": "https://calibertech.vercel.app/",
+    "websiteDisplay": "calibertech.vercel.app"
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "LinkedIn",
+      "designation": "Karthickrajan S",
+      "url": "https://www.linkedin.com/in/karthickrajan-s-08394b289/"
+    },
+    {
+      "id": 2,
+      "name": "Github",
+      "designation": "Karthick1242004",
+      "url": "https://github.com/Karthick1242004"
+    },
+    {
+      "id": 3,
+      "name": "Gmail",
+      "designation": "karthick1242004@gmail.com",
+      "url": "mailto:karthick1242004@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Instagram",
+      "designation": "karthick_124_",
+      "url": "https://www.instagram.com/karthick_124_/"
+    },
+    {
+      "id": 5,
+      "name": "Whatsapp",
+      "designation": "+91 6382682378",
+      "url": "https://wa.me/6382682378"
+    },
+    {
+      "id": 6,
+      "name": "Thread",
+      "designation": "K@rthick_124_",
+      "url": "https://www.threads.net/@karthick_124_"
+    }
+  ],
+  "services": [
+    {
+      "title": "Small scale full stack application",
+      "description": "Have a groundbreaking idea for a full-stack application but worried about costs? Let's bring your vision to life without breaking the bank! Connect with me, and we'll turn your concept into reality with minimal expenses. Your dream project is just a conversation away!"
+    },
+    {
+      "title": "Full scale frontend websites",
+      "description": "Want to elevate your brand to the next level? Let's collaborate and make it happen with innovative designs and unique styles that stand out. Together, we can create a captivating brand identity that sets you apart from the competition. Connect with me today, and let's turn your vision into reality!"
+    },
+    {
+      "title": "Website maintenance",
+      "description": "Regular updates to your website and applications are essential to stay ahead in today's fast-paced digital world. Contact us for top-notch maintenance and update services to ensure your platforms are always performing at their best. Keep your digital presence fresh and competitive—reach out to us today!"
+    }
+  ],
+  "skillset": {
+    "image": "/Screenshot 2024-06-21 at 11.32.39 PM.png"
+  },
+  "hero": {
+    "name": "Karthickrajan S",
+    "tagline": "Founder Of Caliber Tech | Frontend Developer | MERN Stack | Videographer",
+    "resumeUrl": "https://drive.usercontent.google.com/download?id=1aFwuoxRl8SetHyDoY6pxV_aJKLE9GSer&export=download&authuser=0",
+    "resumeText": "Download Resume"
+  }
+}
