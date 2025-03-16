@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 // The raw URL is needed to fetch the actual JSON content
-const DATA_URL = 'https://gist.githubusercontent.com/Karthick1242004/9e67da0d4c450d384a41537f5a6f3bd3/raw';
+const DATA_URL = 'https://gist.githubusercontent.com/Karthick1242004/7b37c099a9cd7ace30e124d938ba3d88/raw/b3f8518db4388d9e7ae247a4d07b9a65bf386d95/data.json';
 
 // Interface matching the structure in your data.json
 interface PortfolioData {
